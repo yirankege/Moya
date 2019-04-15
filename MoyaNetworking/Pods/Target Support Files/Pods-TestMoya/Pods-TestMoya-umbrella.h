@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_MoyaVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_MoyaVersionString[];
+FOUNDATION_EXPORT double Pods_TestMoyaVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_TestMoyaVersionString[];
 
